@@ -1,0 +1,16 @@
+{
+    "name": "etudiant/calendrier",
+    "authors": [
+        {
+            "name": "AzizaJonathan",
+            "email": "aziza.jonathan@outlook.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/Calendar",
+            "App\\": "src/App"
+        }
+    },
+    "require": {}
+}
